@@ -1,7 +1,7 @@
 
                  
                   function cal(a,b,opp){
-                    //converting those string value into number type; 
+                    //converting those string values into number type; 
                     var x=(+a);
                     var y=(+b)
                     
